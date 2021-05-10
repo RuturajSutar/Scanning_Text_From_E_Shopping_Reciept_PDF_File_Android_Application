@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "529857915477",
+    "firebase_url": "https://ilab-pdf.firebaseio.com",
+    "project_id": "ilab-pdf",
+    "storage_bucket": "ilab-pdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529857915477:android:6f626fe990b56bbc1b42dc",
+        "android_client_info": {
+          "package_name": "com.starkindustries.ilabpdfanalyzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529857915477-n8t4hn2o3b8j1ptfjfuji5fu42g37skb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.starkindustries.ilabpdfanalyzer",
+            "certificate_hash": "8f4a3f5a79c636dfe8b3ec14d5096b600a1f55ec"
+          }
+        },
+        {
+          "client_id": "529857915477-9ntnbh10055jf2bmsgimul266rhevne0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2-P5Iq6YBH9X5SFH0qkDzWd5GnYDQsEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529857915477-9ntnbh10055jf2bmsgimul266rhevne0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

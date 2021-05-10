@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/item1"
+        android:icon="@drawable/mymenu"
+        android:title="Seller’s Name and adress"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item2"
+        android:icon="@drawable/mymenu"
+        android:title="Buyer’s name and address"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item3"
+        android:icon="@drawable/mymenu"
+        android:title="Invoice number"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item4"
+        android:icon="@drawable/mymenu"
+        android:title="Description of goods"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item5"
+        android:icon="@drawable/mymenu"
+        android:title="HSN code"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item6"
+        android:icon="@drawable/mymenu"
+        android:title="GST rate"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/item7"
+        android:icon="@drawable/mymenu"
+        android:title="Quantity"
+        app:showAsAction="never"></item>
+    <item android:id="@+id/item8"
+        android:icon="@drawable/mymenu"
+        android:title="Rate"
+        app:showAsAction="never"></item>
+
+</menu>
